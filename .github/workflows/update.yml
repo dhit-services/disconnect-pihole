@@ -21,16 +21,21 @@ jobs:
         run: pip install requests
 
       - name: Generate Pi-hole list
-        run: python convert.py
+        run: |
+          ls -R .
+          python convert.py
+          ls -R .
+
+      - name: Show diff
+        run: |
+          git status
+          git diff
 
       - name: Commit and push if changed
         run: |
-          if ! git diff --quiet; then
-            git config --global user.email "github-actions[bot]@users.noreply.github.com"
-            git config --global user.name "GitHub Actions Bot"
-            git add disconnect-pihole-list.txt
-            git commit -m "Auto-update"
-            git push
-          else
-            echo "No changes"
-          fi
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GitHub Actions Bot"
+          git add disconnect-pihole-list.txt
+          git diff --cached || echo "No staged changes"
+          git commit -m "Auto-update list" || echo "Nothing to commit"
+          git push origin HEAD:main
