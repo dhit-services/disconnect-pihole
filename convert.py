@@ -1,3 +1,5 @@
+
+
 #!/usr/bin/env python3
 import json
 import requests
@@ -6,17 +8,31 @@ import requests
 URL = "https://raw.githubusercontent.com/disconnectme/disconnect-tracking-protection/master/services.json"
 OUTFILE = "disconnect-pihole-list.txt"
 
+def is_valid_domain(d):
+    """Prüft, ob der String wie eine echte Domain aussieht."""
+    d = d.strip()
+    if not d:
+        return False
+    if '.' not in d:
+        return False
+    if ' ' in d:
+        return False
+    if d.lower().startswith("copyright"):
+        return False
+    if d.lower().startswith("http://") or d.lower().startswith("https://"):
+        return False
+    return True
+
 def extract_domains(entry, domains):
     """Extrahiert Domains rekursiv aus einem JSON-Eintrag."""
     if isinstance(entry, str):
-        # Wenn es wie eine Domain aussieht, hinzufügen
-        if any(c.isalnum() for c in entry) and '.' in entry:
+        if is_valid_domain(entry):
             domains.add(entry.strip())
     elif isinstance(entry, dict):
         # Einzelne Domain
-        if "domain" in entry and isinstance(entry["domain"], str):
+        if "domain" in entry and isinstance(entry["domain"], str) and is_valid_domain(entry["domain"]):
             domains.add(entry["domain"].strip())
-        if "url" in entry and isinstance(entry["url"], str):
+        if "url" in entry and isinstance(entry["url"], str) and is_valid_domain(entry["url"]):
             domains.add(entry["url"].strip())
         if "domains" in entry and isinstance(entry["domains"], list):
             for d in entry["domains"]:
@@ -37,16 +53,12 @@ def main():
 
     extract_domains(data, domains)
 
-    # Datei schreiben, nur Domains, keine Lizenz- oder Kommentarzeilen
+    # Datei schreiben, nur gültige Domains
     with open(OUTFILE, "w") as f:
         for d in sorted(domains):
-            # Filter: nur echte Domains, keine leeren Strings
-            if d and '.' in d:
-                f.write(d + "\n")
+            f.write(d + "\n")
 
     print(f"Generated {OUTFILE} with {len(domains)} domains")
 
 if __name__ == "__main__":
     main()
-
-
