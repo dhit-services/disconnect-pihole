@@ -1,0 +1,36 @@
+name: Update Disconnect Pi-hole List
+
+on:
+  schedule:
+    - cron: "0 3 * * 1"
+  workflow_dispatch:
+
+jobs:
+  update-list:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate Pi-hole list
+        run: python convert.py
+
+      - name: Commit and push if changed
+        run: |
+          if ! git diff --quiet; then
+            git config --global user.email "github-actions[bot]@users.noreply.github.com"
+            git config --global user.name "GitHub Actions Bot"
+            git add disconnect-pihole-list.txt
+            git commit -m "Auto-update"
+            git push
+          else
+            echo "No changes"
+          fi
