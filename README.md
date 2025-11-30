@@ -10,3 +10,6 @@ https://github.com/disconnectme/disconnect-tracking-protection/blob/master/servi
 Pi-hole-compatible URL:
 https://raw.githubusercontent.com/dhit-services/disconnect-pihole/main/disconnect-pihole-list.txt
 
+But be warned: using this list may cause a lot of sites and apps in the internet not to work anymore! 
+Use it only if you really know what you're doing! Use it at your own risk.
+
