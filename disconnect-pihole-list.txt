@@ -225,6 +225,7 @@ admanmedia.com
 admarketplace.com
 admarketplace.net
 admarvel.com
+admaster.cc
 admatrix.jp
 admaximizer.com
 admd.ink
@@ -283,6 +284,7 @@ adreadytractions.com
 adriver.ru
 adrolays.com
 adroll.com
+adrta.com
 adrtx.net
 ads-twitter.com
 ads.yahoo.com
@@ -414,6 +416,7 @@ afterdownload.com
 afterpay.com
 afy11.net
 agencytradingdesk.net
+agentio.com
 agentofficemail.com
 aggregateknowledge.com
 agilecrm.com
@@ -530,6 +533,7 @@ app.link
 app.mambasms.com
 appboycdn.com
 appcast.io
+appdynamics.com
 appenda.com
 appflood.com
 appier.com
@@ -553,6 +557,7 @@ aseasky.link
 asepourioter.com
 askdriver.com
 asnapieu.com
+aspireglobal.com
 aspiringapples.com
 aspiringattempt.com
 assets.alicdn.com
@@ -785,6 +790,7 @@ browser-intake-datadoghq.com
 browser-update.org
 browseranalytic.com
 browsiprod.com
+bs.yandex.ru
 bt.fraud0.com
 btloader.com
 btrll.com
@@ -1452,6 +1458,7 @@ eviltracker.net
 evolvemediametrics.com
 ewaydirect.com
 ewebse.com
+ex.co
 exacttarget.com
 exampleshake.com
 exct.net
@@ -1894,6 +1901,7 @@ gorillanation.com
 gosquared.com
 gostats.com
 goutee.top
+govx.com
 gramombird.com
 grandfatherguitar.com
 grandkingdom.com
@@ -1914,6 +1922,7 @@ gsspat.jp
 gsspcln.jp
 gssprt.jp
 gstatic.com
+gtimg.cn
 gtop.ro
 gtopstats.com
 guj.de
@@ -2063,6 +2072,7 @@ infonline.de
 informalbook.com
 informer.yandex.ru
 infusionsoft.com
+ingage.tech
 inmobi.com
 inmobiapis.com
 inmobicdn.net
@@ -2137,6 +2147,7 @@ isstarsbuilding.com
 istlandoll.com
 itch.io
 itisatracker.com
+itsfogo.com
 itsoneiota.com
 ivdopia.com
 ivitrack.com
@@ -2190,6 +2201,7 @@ jwplayer.com
 jwpltx.com
 jwpsrv.com
 k-analytix.com
+k5a.io
 kakao.com
 kaltura.com
 kameleoon.com
@@ -2366,6 +2378,7 @@ maggieeatstheangel.com
 magiceden.dev
 magnetic.com
 magnify360.com
+magsrv.com
 mail.ru
 mail.yahoo.com
 mailblue.eu
@@ -2395,6 +2408,7 @@ mapbasin.com
 mapcommand.com
 mapixl.com
 marchex.com
+marchex.io
 marinsm.com
 marketgid.com
 marketingautomation.services
@@ -2423,6 +2437,7 @@ maxmind.com
 maxpointinteractive.com
 maxymiser.com
 mb01.com
+mc.yandex.com
 mc.yandex.md
 mc.yandex.ru
 mcafee.com
@@ -2943,6 +2958,8 @@ optim.al
 optimallimit.com
 optimatic.com
 optimizely.com
+optimonk.com
+optimove.net
 optimumresponse.com
 optinmonster.com
 optmd.com
@@ -3060,6 +3077,7 @@ pixel.barion.com
 pixel.inbox.exacttarget.com
 pixel.sg
 pixel.thoughtmetric.io
+pixels.spotify.com
 pixeltrack.clientgear.com
 pixfuture.com
 piximedia.com
@@ -3071,6 +3089,7 @@ planebasin.com
 platform-eu.cloud.coveo.com
 platform-one.co.jp
 platform.cloud.coveo.com
+playbuzz.com
 playground.xyz
 playwire.com
 pleasantpump.com
@@ -3116,6 +3135,7 @@ popunder.ru
 possibleboats.com
 possiblepencil.com
 postaffiliatepro.com
+posthog.com
 postrank.com
 postrelease.com
 powerad.ai
@@ -3658,7 +3678,9 @@ sptracking.getblueshift.com
 spurioussquirrel.com
 sputnik.ru
 spylog.com
+src-play.com
 ssm.codes
+st-hatena.com
 st-n.ads1-adnow.com
 st-n.ads5-adnow.com
 st-n.ads6-adnow.com
@@ -4139,6 +4161,7 @@ waust.at
 wavesmachine.com
 wayfair.com
 wayin.com
+web-2-tel.com
 web-stat.com
 web-visor.com
 web.com
