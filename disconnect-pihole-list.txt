@@ -687,6 +687,7 @@ betrad.com
 betssonpalantir.com
 betweendigital.com
 bfmio.com
+bidberry.com
 bidfluence.com
 bidpapers.com
 bidr.io
@@ -721,6 +722,7 @@ bleacherreport.net
 bleedlight.com
 blesspizzas.com
 blings.io
+blis.com
 blismedia.com
 blitzcampaigns.com
 bloblohub.com
@@ -897,6 +899,7 @@ cdn.uk.exponea.com
 cdn1cloudflare.xyz
 cdn4.forter.com
 cdn4dd.com
+cdnbasket.net
 cdninstagram.com
 cdnma.com
 cdnroute.bpsgameserver.com
@@ -1216,6 +1219,7 @@ d2lyx5ly60ksu3.cloudfront.net
 d38xvr37kwwhcm.cloudfront.net
 d3dn269ayoh5p6.cloudfront.net
 d9253bf4bdfd.edge.sdk.awswaf.com
+d9stats.com
 da-services.ch
 dada.pro
 damagedadvice.com
@@ -1373,6 +1377,7 @@ ecal.com
 edge.eu1.fullstory.com
 edge.fullstory.com
 edit.yahoo.com
+edkt.io
 edrone.me
 eds5.mailcamp.nl
 effectivemeasure.com
@@ -1434,6 +1439,7 @@ estara.com
 estat.com
 etarget.eu
 etargetnet.com
+ethicalads.io
 ethtrader.de
 etineria.com
 etracker.com
@@ -1917,6 +1923,7 @@ groceryshopping.net
 groovinads.com
 groupm.com
 grow.me
+grsm.io
 gsicommerce.com
 gsspat.jp
 gsspcln.jp
@@ -1943,6 +1950,7 @@ harrenmedianetwork.com
 hashing.win
 hatena.ne.jp
 hazmatworkshop.com
+hbagency.it
 hbrd.io
 hcaptcha.com
 healthroundprince.com
@@ -2371,6 +2379,7 @@ m314xw.com
 m3651.net
 m3652.net
 m6d.com
+macromill.com
 madhouse.cn
 madisonlogic.com
 madvertise.com
@@ -2495,6 +2504,7 @@ metadata.io
 metadsp.co.uk
 metrics.nsureapi.com
 metrics.psmmarketing.com
+metricscube.io
 metricswpsh.com
 metrixlab.com
 mexad.com
@@ -3022,6 +3032,8 @@ papayads.net
 pardot.com
 parklogic.com
 parsely.com
+partnerlinks.io
+partnerstack.com
 passivepolo.com
 patch.com
 paypal.com
@@ -3089,6 +3101,7 @@ planebasin.com
 platform-eu.cloud.coveo.com
 platform-one.co.jp
 platform.cloud.coveo.com
+plausible.io
 playbuzz.com
 playground.xyz
 playwire.com
@@ -3409,6 +3422,7 @@ sabavision.com
 sablesong.com
 sabre.com
 sabrehospitality.com
+safe-iplay.com
 safecount.net
 sageanalyst.net
 sail-horizon.com
@@ -3737,6 +3751,7 @@ straightnest.com
 strangeclocks.com
 stratigent.com
 streamray.com
+streetmetrics.io
 stretchsister.com
 stretchsneeze.com
 strikead.com
@@ -3777,6 +3792,7 @@ survata.com
 survicate.com
 svlu.net
 swankysquare.com
+swetrix.com
 swiftmining.win
 swingslip.com
 swipechief.com
@@ -3894,6 +3910,8 @@ touchcommerce.com
 townsquare.media
 tp88trk.com
 tpbid.com
+tpmn.co.kr
+tpmn.io
 tqlkg.com
 trac.visme.co
 tracecontent.com
@@ -4003,6 +4021,7 @@ uimserv.net
 ujet.co
 ultraoranges.com
 ultravalid.com
+umami.is
 umbel.com
 unaccountablepie.com
 unanimis.co.uk
@@ -4086,6 +4105,7 @@ vi.ai
 viadata.store
 viafoura.co
 viafoura.net
+vibe.co
 vibrantcelebration.com
 vibrantmedia.com
 vibrantsundown.com
