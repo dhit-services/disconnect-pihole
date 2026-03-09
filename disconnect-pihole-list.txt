@@ -1264,6 +1264,7 @@ desirebucket.com
 despegar.com
 destinationurl.com
 detectdiscovery.com
+dev.visualwebsiteoptimizer.com
 developermedia.com
 developers.google.com
 device.maxmind.com
@@ -2035,7 +2036,6 @@ icrossing.com
 id5-sync.com
 idg.com
 ientry.com
-iesnare.com
 ignitad.com
 ignitionone.com
 ignitionone.net
@@ -2669,6 +2669,7 @@ mouseflow.com
 mowgoats.com
 mparticle.com
 mpeasylink.com
+mpsnare.iesnare.com
 mrf.io
 mrktmtrcs.net
 mrtnsvr.com
