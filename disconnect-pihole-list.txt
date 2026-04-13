@@ -497,6 +497,7 @@ aniview.com
 annalect.com
 annoyedairport.com
 anontimes.com
+anonymised.io
 anonymous-media.com
 anormal-media.de
 anormal-tracker.de
@@ -828,6 +829,7 @@ c60708c831e2.b32e02cd.us-east-2.token.awswaf.com
 c88rx.com
 cabnnr.com
 cacheserv.com
+cadent.com
 cadreon.com
 cafirebreather.com
 cakeagenda.com
@@ -1304,6 +1306,7 @@ dmpxs.com
 dmtracker.com
 dmxleo.com
 dnofd.com
+dns-finder.com
 do-not-tracker.org
 dockdigestion.com
 domdex.com
@@ -2449,6 +2452,7 @@ mdhv.io
 mdotlabs.com
 mdotm.com
 meadowlullaby.com
+measureadv.com
 meatydime.com
 mecglobal.com
 medallia.com
@@ -2636,6 +2640,7 @@ mobclix.com
 mobfox.com
 mobials.com
 mobileadtrading.com
+mobilefuse.com
 mobilestorm.com
 mobiletheory.com
 mobsmith.com
@@ -2991,6 +2996,7 @@ otto.de
 out-there-media.com
 outbrain.com
 outbrainimg.com
+outcomes.net
 outrch.com
 outreach.io
 overconfidentfood.com
@@ -3073,6 +3079,7 @@ pictela.net
 ping.pdst.fm
 pingdom.net
 pinimg.com
+pinklion.io
 pinpoll.com
 pinterest.com
 pippio.com
@@ -3102,6 +3109,7 @@ platform-one.co.jp
 platform.cloud.coveo.com
 plausible.io
 playbuzz.com
+playdigo.com
 playground.xyz
 playwire.com
 pleasantpump.com
@@ -3114,6 +3122,7 @@ plugin.management
 plus.google.com
 plusone.google.com
 pm14.com
+pmbmonetize.live
 pntra.com
 pntrac.com
 pntrs.com
@@ -3798,6 +3807,7 @@ swymrelay.com
 synacor.com
 sync.inmobi.com
 syncapse.com
+syncingbridge.com
 system-notify.app
 system.send24.pl
 t.adcell.com
@@ -3847,6 +3857,7 @@ tellapart.com
 telstra.com.au
 tempertrick.com
 temptteam.com
+temu.com
 tendertest.com
 tensquare.com
 teracent.com
@@ -3975,6 +3986,7 @@ truste-svc.net
 truste.com
 trustedshops.com
 trustedsite.com
+trustedstack.com
 trustpilot.com
 trustx.org
 trvdp.com
@@ -4335,6 +4347,7 @@ yimg.jp
 yldbt.com
 yldmgrimg.net
 ymail.com
+ymmobi.com
 ynxs.io
 yoc-performance.com
 yoc.com
