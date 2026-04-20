@@ -893,7 +893,6 @@ cdn.shopify.com
 cdn.spxl.ink
 cdn.tapioni.com
 cdn.uk.exponea.com
-cdn.viafoura.net
 cdn1cloudflare.xyz
 cdn2.hubspot.net
 cdn4.forter.com
