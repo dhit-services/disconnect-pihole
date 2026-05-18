@@ -60,6 +60,7 @@
 a-ads.com
 a-mo.net
 a-mx.com
+a.amxrtb.com
 a.klaviyo.com
 a.mysalo.store
 a.topincome.cc
@@ -126,6 +127,7 @@ adality.de
 adalliance.io
 adalyser.com
 adap.tv
+adapter.bidmatic.io
 adaptiveads.com
 adaptly.com
 adara.com
@@ -286,6 +288,7 @@ adroll.com
 adrta.com
 adrtx.net
 ads-twitter.com
+ads.avads.net
 ads.yahoo.com
 ads7-adnow.com
 adsafemedia.com
@@ -471,6 +474,7 @@ amocrm.ru
 amplitude.com
 ampxchange.com
 amung.us
+amx1.net
 an.yandex.ru
 analytics-au.cloud.coveo.com
 analytics-ca.cloud.coveo.com
@@ -688,6 +692,7 @@ bidberry.com
 bidfluence.com
 bidpapers.com
 bidr.io
+bidserver.pacvue.com
 bidswitch.net
 bidsystem.com
 bidtellect.com
@@ -1004,6 +1009,7 @@ cloudfront.net
 cloudinary.com
 clovenetwork.com
 clustrmaps.com
+cm-mx.advolve.io
 cmail1.com
 cmail10.com
 cmail11.com
@@ -1132,6 +1138,7 @@ coxdigitalsolutions.com
 cozytryst.com
 cp20.com
 cpalead.com
+cpm.vistarsagency.com
 cpmadvisors.com
 cpmatic.com
 cpmstar.com
@@ -1335,6 +1342,9 @@ driveniq.com
 drollwharf.com
 dsmmadvantage.com
 dsnextgen.com
+dsp-service.admatic.de
+dsp-service.adtarget.biz
+dsp-service.monetixads.com
 dsply.com
 dstillery.com
 dt00.net
@@ -1593,6 +1603,7 @@ freecontent.date
 freecontent.stream
 freeonlineusers.com
 freeskreen.com
+freestar.solutions.cdn.optable.co
 freewheel.tv
 friendfeed.com
 friendshipmale.com
@@ -2443,6 +2454,7 @@ maxbounty.com
 maxmind.com
 maxpointinteractive.com
 maxymiser.com
+maybic.rtb.monetixads.com
 mb01.com
 mc.yandex.com
 mc.yandex.md
@@ -2710,6 +2722,7 @@ mythad.com
 mythings.com
 myvisualiq.net
 mywebgrocer.com
+na.edge.optable.co
 naivestatement.com
 nakanohito.jp
 namastedharma.com
@@ -3170,6 +3183,11 @@ ppcprotect.com
 ppctracking.net
 ppjol.net
 pqa-analytics.service.ksearchnet.com
+prebid.admatic.com.tr
+prebid.admatic.de
+prebid.adtarget.biz
+prebid.monetixads.com
+prebid.serve.admatic.com.tr
 precisear.com
 precisionclick.com
 prepareplanes.com
@@ -3181,6 +3199,7 @@ priceypies.com
 pricklydebt.com
 primevisibility.com
 primis.tech
+prism-tracking.pacvue.com
 pristinegale.com
 privacy-center.org
 privacy-mgmt.com
@@ -3723,6 +3742,10 @@ static.affilae.com
 static.airpackapp.com
 static.airwallex.com
 static.aviasales.com
+static.cdn.admatic.com.tr
+static.cdn.admatic.de
+static.cdn.adtarget.biz
+static.cdn.monetixads.com
 static.chartbeat.com
 static.cloud.coveo.com
 static.developer.riotgames.com
@@ -3809,7 +3832,11 @@ switchconcepts.com
 swoop.com
 swymrelay.com
 synacor.com
+sync.adtech.ink
+sync.getpublica.com
 sync.inmobi.com
+sync.ottadvisors.com
+sync.vistarsagency.com
 syncapse.com
 syncingbridge.com
 system-notify.app
@@ -3924,6 +3951,7 @@ tpmn.io
 tqlkg.com
 tr.line.me
 trac.visme.co
+trace.us.rtbwise.com
 tracecontent.com
 tracemyip.org
 tracify.ai
@@ -4076,6 +4104,7 @@ usemessages.com
 user.com
 userapi.com
 userreport.com
+usersync.getpublica.com
 uservoice.com
 utarget.ru
 uuidksinc.net
