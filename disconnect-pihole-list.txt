@@ -4348,7 +4348,7 @@ yandex.com
 yandex.com.tr
 yandex.net
 yandex.ru
-yandex.ru/ads
+yandex.ru/ads/
 yandex.ru/clck/click
 yandex.ru/clck/counter
 yandex.ru/cycounter
