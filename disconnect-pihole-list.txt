@@ -55,7 +55,6 @@
 82o9v830.com
 8ctch.com
 8d8.biz
-91app.com
 9c9media.ca
 a-ads.com
 a-mo.net
@@ -3738,6 +3737,7 @@ statcounter.com
 statdynamic.com
 static-forms.klaviyo.com
 static-resources.botnot.io
+static.91app.com
 static.affilae.com
 static.airpackapp.com
 static.airwallex.com
@@ -3965,6 +3965,7 @@ trackcmp.net
 trackedlink.net
 trackedweb.net
 trackersimulator.org
+tracking-client.91app.com
 tracking.friends2follow.com
 tracking.retailrocket.net
 tracking.server.bytecon.com
@@ -4225,7 +4226,6 @@ web-2-tel.com
 web-stat.com
 web-visor.com
 web.com
-web.static.mmcdn.com
 webclicktracker.com
 webcontentassessor.com
 webeyez.com
@@ -4273,7 +4273,6 @@ wickedanimal.com
 wideangle.co
 widespace.com
 widget.trustpilot.com
-widgets.trustedshops.com
 widgetserver.com
 winamp.com
 wingify.com
