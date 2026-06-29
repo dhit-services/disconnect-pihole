@@ -1232,6 +1232,7 @@ damageddistance.com
 dampdock.com
 dapper.net
 dartsearch.net
+data.qiota.com
 datadoghq-browser-agent.com
 datadoghq.com
 datadoghq.eu
@@ -3254,7 +3255,6 @@ px-cdn.net
 px-cloud.net
 pxf.io
 pxlclnmdecom-a.akamaihd.net
-qiota.com
 qksz.com
 qksz.net
 qnsr.com
@@ -3755,6 +3755,7 @@ static.cloud.coveo.com
 static.developer.riotgames.com
 static.klaviyo.com
 static.mocortech.com
+static.qiota.com
 staticflickr.com
 staticstuff.net
 statisfy.net
@@ -4318,6 +4319,7 @@ wtp101.com
 wunderkind.co
 wunderloop.net
 www.klaviyo.com
+www.qiota.com
 wysistat.com
 x.com
 x01.aidata.io
