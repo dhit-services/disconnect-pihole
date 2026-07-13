@@ -114,6 +114,7 @@ ad-score.com
 ad-srv.net
 ad-stir.com
 ad.gt
+ad.wsod.com
 ad2iction.com
 ad2onegroup.com
 ad4game.com
@@ -4311,7 +4312,6 @@ wpncdn.com
 wpshsdk.com
 wrethicap.info
 wrongwound.com
-wsod.com
 wt-eu02.net
 wt-safetag.com
 wtp101.com
