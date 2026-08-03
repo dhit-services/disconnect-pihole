@@ -848,6 +848,7 @@ campaign-archive1.com
 campaign-tracking.woowup.com
 campaigngrid.com
 campaignmonitor.com
+campfirecroutondecorator.com
 cams.com
 canvasandsocks.com
 capitalaudience.com
@@ -958,6 +959,7 @@ clammychicken.com
 clarity.ms
 clarium.io
 classicnotebook.com
+claydar.com
 clean.gg
 cleanhaircut.com
 cleantalk.org
@@ -1259,6 +1261,7 @@ decideinteractive.com
 decisivebase.com
 dedicatedmedia.com
 dedicatednetworks.com
+deductgreedyheadroom.com
 deepintent.com
 defybrick.com
 deliverimp.com
@@ -1379,6 +1382,7 @@ e.customeriomail.com
 e.wordfly.com
 e491328.com
 eagerknight.com
+earmuffpostnasalrisotto.com
 earnify.com
 earthups.com
 ebay.com
@@ -1467,6 +1471,10 @@ eulerian.com
 eulerian.net
 euroclick.com
 evasivejar.com
+eventer-display-identity.bqstreamer.com
+eventer-player.bqstreamer.com
+eventer-upsdisplay.bqstreamer.com
+eventer-widget.bqstreamer.com
 eventexistence.com
 everestads.net
 everestjs.net
@@ -2679,6 +2687,8 @@ monitus.net
 monoloop.com
 monsido.com
 monster.com
+monti-config.bqstreamer.com
+monti-version.bqstreamer.com
 montwam.top
 monu.delivery
 mookie1.com
@@ -3417,6 +3427,7 @@ rs6.net
 rsz.sk
 rt-pixel.com
 rtactivate.com
+rtb-configuration.bqstreamer.com
 rtb.mx
 rtbhouse.com
 rtbidder.net
@@ -4062,8 +4073,11 @@ ubermedia.com
 ubiquitoussea.com
 ucfunnel.com
 udmserve.net
+uds-config.bqstreamer.com
+uds-selector.bqstreamer.com
 udzpel.com
 ufpcdn.com
+uid-creation.bqstreamer.com
 uidapi.com
 uimserv.net
 ujet.co
@@ -4094,6 +4108,7 @@ uol.com.br
 up-value.de
 uplynk.com
 upravel.com
+ups-library.bqstreamer.com
 upscope.io
 upsellit.com
 uptrends.com
