@@ -535,6 +535,7 @@ app-worker.visitor-analytics.io
 app.hubspot.com
 app.link
 app.mambasms.com
+app.trialfire.com
 appboycdn.com
 appcast.io
 appdynamics.com
@@ -901,11 +902,17 @@ cdn.segment.com
 cdn.shopify.com
 cdn.spxl.ink
 cdn.tapioni.com
+cdn.trialfire.com
 cdn.uk.exponea.com
+cdn11.editmysite.com
 cdn1cloudflare.xyz
+cdn2.editmysite.com
 cdn2.hubspot.net
+cdn3.editmysite.com
 cdn4.forter.com
 cdn4dd.com
+cdn5.editmysite.com
+cdn6.editmysite.com
 cdnbasket.net
 cdninstagram.com
 cdnma.com
@@ -1391,6 +1398,7 @@ ebayimg.com
 ebaystatic.com
 ebuzzing.com
 ebxcdn.com
+ec.editmysite.com
 ecal.com
 edge.adobedc.net
 edge.eu1.fullstory.com
@@ -1399,6 +1407,7 @@ edit.yahoo.com
 edkt.io
 edrone.me
 eds5.mailcamp.nl
+edw.edmunds.com
 effervescentcoral.com
 efrontier.com
 ekolay.net
