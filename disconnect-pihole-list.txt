@@ -806,7 +806,6 @@ buckridge.link
 bucksense.com
 bufferapp.com
 bugsnag.com
-builder-assets.unbounce.com
 buildingknife.com
 bumlam.com
 bunchball.com
@@ -2369,6 +2368,7 @@ lockerz.com
 logdy.com
 login.yahoo.com
 logly.co.jp
+logx.optimizely.com
 longtailvideo.com
 loomia.com
 loop11.com
@@ -3052,7 +3052,6 @@ p.yotpo.com
 p7cloud.net
 pagefair.com
 pagefair.net
-pages.convertkit.com
 pages01.net
 pages02.net
 pages03.net
