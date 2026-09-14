@@ -525,7 +525,6 @@ api.carrotquest.io
 api.fouanalytics.com
 api.hubspot.com
 api.iafstats.com
-api.ipify.org
 apmebf.com
 apms5.com
 apnewsregistry.com
