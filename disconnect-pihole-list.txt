@@ -4137,6 +4137,8 @@ userreport.com
 usersync.getpublica.com
 uservoice.com
 utarget.ru
+utiq-aws.net
+utiqcontent.com
 uuidksinc.net
 v12data.com
 v12group.com
