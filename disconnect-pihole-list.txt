@@ -791,6 +791,7 @@ brightroll.com
 brighttoe.com
 briskstorm.com
 broadborder.com
+browser-http-intake.logs.datadoghq.com
 browser-intake-datadoghq.com
 browser-update.org
 browseranalytic.com
@@ -1260,6 +1261,7 @@ daumcdn.net
 dazzlingbook.com
 dbankly.com
 dc-storm.com
+dc.services.visualstudio.com
 de17a.com
 de5282c3ca0c.edge.sdk.awswaf.com
 debonairdust.com
@@ -1485,6 +1487,7 @@ eventer-player.bqstreamer.com
 eventer-upsdisplay.bqstreamer.com
 eventer-widget.bqstreamer.com
 eventexistence.com
+eventtracking-log.services.video.ibm.com
 everestads.net
 everestjs.net
 everesttech.net
@@ -2047,6 +2050,8 @@ hsms06.com
 hsprotect.net
 htlbid.com
 htplayground.com
+http-intake.logs.datadoghq.com
+http-intake.logs.us5.datadoghq.com
 httpool.com
 hubapi.com
 hubspotemail.net
@@ -2747,6 +2752,7 @@ mythings.com
 myvisualiq.net
 mywebgrocer.com
 na.edge.optable.co
+na.prod.celyx.datax.audible.amazon.dev
 naivestatement.com
 nakanohito.jp
 namastedharma.com
@@ -3234,6 +3240,7 @@ processplantation.com
 proclivitymedia.com
 proclivitysystems.com
 prod-adenty-cdn.azureedge.net
+prod.us-east-1.cxm-bcn.publisher-services.amazon.dev
 profanstee.com
 profusesupport.com
 programattik.com
@@ -3449,6 +3456,7 @@ rtoaster.jp
 ru4.com
 rubiconproject.com
 rudderlabs.com
+rum-http-intake.logs.datadoghq.com
 runadtag.com
 rundsp.com
 ruralrobin.com
@@ -3575,6 +3583,7 @@ sensic.net
 sensis.com.au
 sensisdata.com.au
 sentry-cdn.com
+sentry-intake.datadoghq.com
 sentry.io
 sentrymagic.com
 seoptiks.com
@@ -4062,6 +4071,7 @@ tubemogul.com
 tulip18.com
 tumblr.com
 tumri.net
+tungsten-service.prod.na.adsqtungsten.a9.amazon.dev
 turn.com
 turner.com
 turnto.com
