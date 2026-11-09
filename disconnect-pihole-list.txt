@@ -831,6 +831,7 @@ buzzoola.com
 buzzparadise.com
 bvmedia.ca
 byroundprince.com
+byspotify.com
 c.albss.com
 c1exchange.com
 c3metrics.com
@@ -1339,6 +1340,7 @@ doubleverify.com
 doubtdrawer.com
 doyouad.com
 dp-dhl.com
+dpmsrv.com
 drainpaste.com
 dramaticdirection.com
 drawbrid.ge
@@ -2727,6 +2729,7 @@ muteknife.com
 mutemailbox.com
 mux.com
 muxanalytics.com
+mx.technolutions.net
 mxpnl.com
 mxptint.net
 my-email-signature.link
@@ -3529,6 +3532,7 @@ scribblestring.com
 scrippsdigital.com
 script.anura.io
 script.mfilterit.net
+scriptintel.io
 scupio.com
 sda.fyi
 sddan.com
@@ -4261,6 +4265,7 @@ wanmo.com
 warmafterthought.com
 warmquiver.com
 warumbistdusoarm.space
+wat.test.technolutions.net
 waust.at
 wavesmachine.com
 wayfair.com
