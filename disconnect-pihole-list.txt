@@ -1526,7 +1526,6 @@ ezoic.com
 ezoic.net
 ezoiccdn.com
 ezymarketer.net
-f.wishabi.net
 f459fdc403a6.edge.sdk.awswaf.com
 f98792672267.edge.sdk.awswaf.com
 fabcharting.com
